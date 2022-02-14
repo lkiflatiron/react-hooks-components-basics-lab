@@ -8,7 +8,7 @@ function NavBar() {
   );
 }
 
-function Home() {
+function HomeFussy() {
   return (
     <div id="home">
       <h1>Home</h1>
